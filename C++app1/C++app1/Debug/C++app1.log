@@ -1,0 +1,7 @@
+﻿  C++app1.cpp
+C:\Users\User\source\repos\C++app1\C++app1\C++app1.cpp(80,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\User\source\repos\C++app1\C++app1\C++app1.cpp(82,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\User\source\repos\C++app1\C++app1\C++app1.cpp(229,19): warning C4930: 'main::EffectMonster effectMonster1(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\User\source\repos\C++app1\C++app1\C++app1.cpp(229,19): warning C4101: 'effectMonster1': unreferenced local variable
+C:\Users\User\source\repos\C++app1\C++app1\C++app1.cpp(229,19): warning C5046: 'effectMonster1': Symbol involving type with internal linkage not defined
+  C++app1.vcxproj -> C:\Users\User\source\repos\C++app1\Debug\C++app1.exe
